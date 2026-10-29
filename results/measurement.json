@@ -1,0 +1,41 @@
+{
+ "eps_ha": 0.001594,
+ "rows": [
+  {
+   "molecule": "H2",
+   "qubits": 4,
+   "terms": 14,
+   "groups": 5,
+   "shots_bound": 1401575.563343187,
+   "shots_single": 49109.2252160308,
+   "shots_qwc": 49109.22521603063
+  },
+  {
+   "molecule": "LiH",
+   "qubits": 6,
+   "terms": 61,
+   "groups": 19,
+   "shots_bound": 1465304.4806222236,
+   "shots_single": 43593.03929147437,
+   "shots_qwc": 6298.524668444517
+  },
+  {
+   "molecule": "BeH2",
+   "qubits": 8,
+   "terms": 60,
+   "groups": 13,
+   "shots_bound": 5356194.549221265,
+   "shots_single": 180582.08543954074,
+   "shots_qwc": 32181.538228350335
+  },
+  {
+   "molecule": "H2O",
+   "qubits": 8,
+   "terms": 104,
+   "groups": 28,
+   "shots_bound": 18770073.06173817,
+   "shots_single": 1211933.2081954342,
+   "shots_qwc": 146852.49693748553
+  }
+ ]
+}
